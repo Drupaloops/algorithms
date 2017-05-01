@@ -5,7 +5,7 @@ let input = ''
 console.log('> input: ' + input);
 
 
-// $fileName
+// function
 function $fileName (input) {
   var output;
   return output;

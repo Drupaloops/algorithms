@@ -5,7 +5,7 @@ let input = ''
 console.log('> input: ' + input);
 
 
-// oops
+// function name
 function oops (input) {
   var output;
   return output;
